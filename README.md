@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Django , React**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django , Nestjs , Angular , Springboot**
 
 - 📫 How to reach me **klausongudy@gmail.com**
 
